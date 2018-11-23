@@ -9,7 +9,7 @@ purple='\033[34;1m'
 yellow='\033[35;1m'
 cyan='\033[36;1m'
 
-echo""
+echo
 echo -e $blue"======================================================="
 echo -e $yellow"==             Name:Firzii                         =="
 echo -e $yellow"==             Nick:Mr.HurT3d                      =="
@@ -20,7 +20,7 @@ echo -e $white"daftar toolsnya=>"
 echo -e $cyan"[1] Tools Spam Wa (spam chat)"
 echo -e $cyan"[2] Tools Spam Wa (spam telepon)"
 echo -e $cyan"[3] Tools Gps-Tracking"
-echo""
+echo
 echo -e $yellow
 read -p"rootlocalhost@Firzii=$ " zii;
 
